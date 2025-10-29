@@ -1,10 +1,4 @@
-✨
-V2 Available Now!Redesigned UI · More features · Faster performance
-Upgrade to V2 →
-github profile markdown generator logo
-GitHub Profile README Generator
-Star this repo23633
-Fork on GitHub8105
+
 <h1 align="center">Hola,I'm Oleg</h1>
 <h3 align="center">A Backend/DevOps engineer</h3>
 
