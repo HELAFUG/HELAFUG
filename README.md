@@ -2,7 +2,9 @@
 <h1 align="center">Hola,I'm Oleg</h1>
 <h3 align="center">A Backend/DevOps engineer</h3>
 
-- 💬 Ask me about **Python,Golang,Infrastructures**
+- Ask me about **Python,Golang,Infrastructures**
+- **Open for collabs**
+- **love**
 
 
 <h3 align="left">Languages and Tools:</h3>
